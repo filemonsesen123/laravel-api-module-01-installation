@@ -15,10 +15,10 @@ Laravel Api Project
 
 ## Depedencies
 
-- barryvdh/laravel-cors
-- dingo/api
-- tymon/jwt-auth
-- webpatser/laravel-uuid
+- [barryvdh/laravel-cors](https://packagist.org/packages/barryvdh/laravel-cors)
+- [dingo/api](https://packagist.org/packages/dingo/api)
+- [tymon/jwt-auth](https://packagist.org/packages/tymon/jwt-auth)
+- [webpatser/laravel-uuid](https://packagist.org/packages/webpatser/laravel-uuid)
 
 ## Challenge
 
