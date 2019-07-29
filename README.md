@@ -30,6 +30,7 @@ Laravel Api Project
   example:
   ```text
   $ composer require barryvdh/laravel-cors
+  $ composer require tymon/jwt-auth:"1.0.*"
   ```
 - Push project to this repositories
 - Take a screenshot of your repositories link and post to the [KK4-B Google Classroom](https://classroom.google.com)
